@@ -1,0 +1,34 @@
+
+
+.CustomBody {
+  min-height: 600px;
+}
+
+#project-cover {
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+
+
+
+
+
+#medium-icon {
+  font-size: 40px;
+  margin-left: 20px;
+}
+
+#insta-icon {
+  font-size: 40px;
+}
+
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
